@@ -1,0 +1,21 @@
+<h1 id="heading">thank you</h1>
+<h2 class="red">thank you</h2>
+<h4 class="blue"></h4>
+<h6 style="color:blue;">thank you</h6>
+
+<p>php started out as a small open source project that evolved as more and more people 
+found out how useful it was.</p>
+
+<ol type="a">
+<li>c++</li>
+<li>java</li>
+<li>android</li>
+</ol>
+
+<ul type="circle">
+<li>c++</li>
+<li>java</li>
+<li>android</li>
+</ul>
+
+<img src="1.jpg" 

@@ -1,0 +1,17 @@
+#banner{ padding:150px; background:url('img/6.jpg'); background-size:cover;}
+#heading{ color:orange;}
+#forms{ color:orange;}
+#heading{color:orange;}
+#danceforms img{ border-radius:100px;border:9px double orange; 
+height:200px; width:75%;}
+#danceforms .col-md-4{ padding:20px;}
+#danceforms{ text-align:center; color:white;}
+#nav a{ color:white;}
+.orange{ color:orange;}
+#clients img{ border-radius:100px;border:9px solid orange;
+ height:100px; width:100px;}
+#clients .col-md-3{ padding:50px;}
+#timing{ text-align:center; color:orange;}
+.tableborder{ border:2px solid black;}
+#gallery img{ margin-bottom:20px; box-shadow:1px 1px 10px orange; border-radius:2px 20px 2px 20px;}
+.banner{ background:url('img/2.jpg'); padding:100px; color:white;}
