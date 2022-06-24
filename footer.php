@@ -21,7 +21,7 @@ Fatehabad,India-125050</h6>
 
 
 <div class="col-md-12 p-5">
-<p>&copy; 2021 Be Dance. All Rights Reserved 
+<p>&copy; 2022 Be Dance. All Rights Reserved 
 </div>
 </div>
 
