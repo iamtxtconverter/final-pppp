@@ -12,10 +12,10 @@ children and adults ages 2+.</h6>
 
 <div class="col-md-3 p-5">
 <h3>Our Address</h3>
-<h6>Address :Ajit Road,Bathinda<br>
-Punjab,India-151001</h6>
+<h6>Address :Bhuna Road,Near Rest House<br>
+Fatehabad,India-125050</h6>
 <h6>Phone :+(000) 123 4565 32</h6>
-<h6>Email : info@bedance.com</h6>
+<h6>Email : nainsgodara123@gmail.com</h6>
 </div>
 
 
