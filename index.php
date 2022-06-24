@@ -1,4 +1,6 @@
-
+<?php
+include"header.php";
+?>
 
 
 <div class="row " id="banner">
@@ -216,6 +218,10 @@ as an exercise by people around the world</p>
 <img src="tn.jpg" height="300px" width="100%" />
 </div>
 </div>
+
+<?php
+include"footer.php";
+?>
 
 
 
